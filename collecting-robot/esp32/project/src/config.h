@@ -8,8 +8,8 @@
 #define BAUD0       115200
 #define BAUD1       115200
 
-#define SSID        ""
-#define PASS        ""
+#define SSID        "HUAWEI MateBookFold"
+#define PASS        "0d000721"
 #define MDNS_NAME   "collecting-robot"
 #define TCP_PORT    8080
 #define TIMEOUT     30000
